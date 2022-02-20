@@ -80,3 +80,29 @@ alternative hypothesis: true mean is not equal to 1500
 sample estimates:
 mean of x 
   1496.14 
+  
+**#Deliverable 4 Analysis: tudy Design: MechaCar vs Competition**
+
+1. Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+The Matrix I would be interested in would be maintenance cost. 
+
+2. In your description, address the following questions:
+
+A. What metric or metrics are you going to test? 
+
+The Matrix chosens is the maintenance cost. 
+
+B. What is the null hypothesis or alternative hypothesis? 
+
+The null hybothesis would be that the overall maintenance cost per month using coefficent should not exceed $300.
+
+C. What statistical test would you use to test the hypothesis? And why?
+
+The ggplot2 library can be used to plot the graph based on values x & y. 
+
+D. What data is needed to run the statistical test?
+
+The maintenance cost of vehicle is required to see what cost occur within a year such as oil change, maintenance fee of many mechanical, engine, tires, etc. All cost that occur after purchasing the cost up to a year should be recorded and analyzed.  
+
+
